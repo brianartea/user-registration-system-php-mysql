@@ -1,0 +1,10 @@
+db Path: localhost:3306
+
+DB Name: expert35_registration
+
+Username: expert35_registration
+
+Password: Brian2050
+
+Working Version
+https://expertdesign.cc/user-registration-system-php-mysql
