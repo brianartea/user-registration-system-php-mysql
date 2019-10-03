@@ -1,11 +1,10 @@
 # [Complete user registration system using PHP and MySQL database | CodeWithAwa](https://codewithawa.com/posts/complete-user-registration-system-using-php-and-mysql-database) | [YouTube video](https://www.youtube.com/watch?v=ShbHwaiyOps)
 Here is a live working version of the code: [Click here.](https://expertdesign.cc/user-registration-system-php-mysql)
 
-This code works great. I would like to add can't remember username or password and password reset.
-
-...
+```
 I did not write this code Awa Melvine did.
-...
+```
+This code works great. I would like to add can't remember username or password and password reset.
 
 In this tutorial, Awa Melvine walks you through the complete process of creating a user registration system where users can create an account by providing username, email and password, login and logout using PHP and MySQL. I will also show you how you can make some pages accessible only to logged in users. Any other user not logged in will not be able to access the page.
 
